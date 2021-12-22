@@ -1,8 +1,5 @@
-/**
- * A simple program that calculates BMI for user's body weight. What is BMI?:
- * https://www.thecalculatorsite.com/articles/health/bmi-formula-for-bmi-calculations.php
- *  
- */
+// BMI CALCULATOR
+
 
 import java.util.*;
 import java.text.*;
