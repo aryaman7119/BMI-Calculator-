@@ -79,5 +79,5 @@ public class MainSrc {
 		}
 		return category;
 	}
-	// Hope you like it! :)
+	
 }
